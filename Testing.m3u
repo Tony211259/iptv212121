@@ -495,8 +495,8 @@ http://harber.xyz/stream/usee-kompastv-milik-harberkuy.m3u8
 #EXTINF:0 tvg-id="rtv" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL USEE ZI",RTV TV
 http://harber.xyz/stream/usee-rtv-milik-harberkuy.m3u8
 
-#EXTINF:0 tvg-id="jaktv" tvg-name="" tvg-logo="https://images.useetv.com/logo_jaktv_big1.png" group-title="LOKAL USEE ZI",JAK TV
-http://harber.xyz/stream/usee-jaktv-milik-harberkuy.m3u8
+#EXTINF:0 tvg-id="jaktv" tvg-name="" tvg-logo="https://images.useetv.com/logo_net_big1.png" group-title="LOKAL USEE ZI",NET TV
+https://raw.githubusercontent.com/anuom91/INDONESIA-ANUTV/main/NETTV-ANUTV.m3u8
 
 #EXTINF:0 tvg-id="tvri" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="LOKAL USEE ZI",TVRI
 http://harber.xyz/stream/usee-tvri-milik-harberkuy.m3u8
