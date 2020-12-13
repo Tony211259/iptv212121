@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>IPTV Player HD</title>
+    
+    
+    <!-- Docs styles -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<style type="text/css">
+    body{
+      background: black;
+    }
+    h1 span{animation:shrinkHide 1s cubic-bezier(.175,.885,.32,1.275) 2s forwards;display:inline-block;font-weight:300;opacity:.5}
+    h1{font-size:40px;font-size:4rem;color:#ffffff;font-weight:600;letter-spacing:-.025em;line-height:1.2;margin:0 0 24px}
+    h1{font-size:2em;margin:.67em 0}
+
+</style>
+
+    <!-- Preload -->
+    <link
+      rel="preload"
+      as="font"
+      crossorigin
+      type="font/woff2"
+      href="https://cdn.plyr.io/static/fonts/gordita-medium.woff2"
+    />
+    <link
+      rel="preload"
+      as="font"
+      crossorigin
+      type="font/woff2"
+      href="https://cdn.plyr.io/static/fonts/gordita-bold.woff2"
+    />
+
+    <!-- Google Analytics-->
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132699580-1"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'UA-132699580-1');
+    </script>
+  </head>
+
+  <body background="black">
+    <div class="grid">
+      <header>
+        
+        <div id="container" class='col-xs-12'>
+          <video id="video" controls style="width: 80%;"></video>
+        </div>
+        
+        <h1 style="font-size: 50px; margin-top: 3%; float: left; margin-left: 5%;">CNN</h1>
+        <p>
+          
+        </p>
+        
+
+    <script>
+    if(Hls.isSupported())
+    {
+        var video = document.getElementById('video');
+        var hls = new Hls();
+        hls.loadSource('https://delivery.zichannels.xyz/stream/cnninternational/playlist.m3u8?token=evqgm&v=20201207');
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED,function()
+        {
+            video.play();
+        });
+    }
+    else if (video.canPlayType('application/vnd.apple.mpegurl'))
+    {
+        video.src = '';
+        video.addEventListener('canplay',function()
+        {
+            video.play();
+        });
+    }
+    </script>
+  </header>
+</div>
+  </body>
+</html>
