@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style type="text/css">
+    
+    
+body {
+  font-family: sans-serif;
+  background: #1a1a1a;
+  height: 100vh;
+  display: flex; 
+  justify-content: center;
+  align-items: start;
+  padding: 0px 20px; 
+}
+
+.movie-list{
+  width: 100%;
+  text-align: left;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.movie-list-head{
+  padding: 20px 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.movie-list-head > h2{
+  border-bottom: 3px solid #831237;
+}
+
+.wrap-movies{
+  width: 100%;
+  display: grid;
+  row-gap: 2%;
+  column-gap: 1%;
+  grid-template-columns: repeat(6 ,1fr);
+  
+}
+
+.movie {
+  position: relative;
+  text-align: center;
+  cursor: pointer;
+  overflow: hidden;
+  padding-top: 140%;
+  min-width: 150px;
+}
+
+.movie img{
+  width:100%;
+  object-fit: contain;
+  position: absolute;
+  left:0;
+  bottom:0;
+  top: 0;
+  right: 0;
+  transition: opacity 0.1s ease-in;
+}
+
+.movie:hover img{
+  opacity: 0.7; 
+}
+
+.movie .title {
+  text-transform: capitalize;
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  bottom: 0%;
+  font-size: 12px;
+  color: white;
+  background: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0.7) 50% ,rgba(0,0,0,1) 100%);
+  display: flex;
+  justify-content: center;
+}
+
+.movie .title h2 {
+  width: 70%;
+}
+
+.movie .play-button{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 70px;
+  color: red;
+  opacity: 0;
+  transition: opacity 0.1s ease-in;
+}
+
+.movie:hover .play-button{
+  opacity: 1; 
+}
+
+.quality {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  z-index: 1;
+  border-radius: 3px;
+  background-color: #111;
+  color: white ;
+  text-transform: uppercase;
+  padding: 5px;
+}
+
+.episodes {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  z-index: 1;
+  border-radius: 50%;
+  color: white;
+  background: rgba(224,45,104,0.9);
+  height: 35px;
+  width: 35px;
+  text-transform: uppercase;
+  padding: 10px;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.episodes i{
+  display: block;
+  font-weight: bold;
+  font-size: 20px;
+  font-style: normal;
+}
+
+@media(max-width:1200px){
+  .wrap-movies{
+    gap: 20px;
+    grid-template-columns: repeat(4,1fr);
+    
+  }
+  
+  .movie .title h2{
+    font-size: 15px;
+  }
+  
+  .movie .play-button {
+    font-size: 70px;
+  }
+
+  
+}
+
+@media(max-width:760px){
+  .wrap-movies{
+    gap: 20px;
+    grid-template-columns: repeat(2,1fr);
+    
+  }
+  
+  .movie .title h2{
+    font-size: 18px;
+  }
+  
+  .movie .play-button {
+    font-size: 100px;
+  }
+
+  
+}
+    
+  </style>
+</head>
+<body>
+
+
+<div class="movie-list">
+  <div class="movie-list-head"> 
+    <h2>Suggestions</h2>
+  </div>
+ 
+  <div class="wrap-movies">
+    <a href="#" class="movie">
+      <span class="quality">HD</span>
+      <img src="https://img.vxdn.net/p-max/200/the-invisible-man-100519.jpg" alt="">
+      <div class="title"><h2>The invisible Man</h2></div>
+      <div class="play-button"><i class="fa fa-play-circle"></i></div>
+    </a>
+    <a href="#" class="movie">
+      <span class="quality">HD</span>
+      <img src="https://img.vxdn.net/p-max/200/extraction-100732.jpg" alt="">
+      <div class="title"><h2>Extraction</h2></div>
+      <div class="play-button"><i class="fa fa-play-circle"></i></div>
+    </a>
+    <a href="#" class="movie">
+      <span class="quality">HD</span>
+      <img src="https://img.vxdn.net/p-max/200/little-women-100279.jpg" alt="">
+      <div class="title"><h2>Little women</h2></div>
+      <div class="play-button"><i class="fa fa-play-circle"></i></div>
+    </a>
+    <a href="#" class="movie">
+      <span class="episodes">eps
+        <i>13</i>
+      </span>
+      <img src="https://img.vxdn.net/p-max/200/Agents-shield-7-100933.jpg" alt="">
+      <div class="title"><h2>Agents of S.H.I.E.L.D. - season 7</h2></div>
+      <div class="play-button"><i class="fa fa-play-circle"></i></div>
+    </a>
+  </div>
+</div>
+
+
+</body>
+</html>
