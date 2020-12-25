@@ -24,21 +24,21 @@ rtp://@239.1.1.19:8088
 rtp://@239.1.1.241:9362
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvone_big1.png" group-title="Local Channel",TV ONE
 rtp://@239.1.1.31:8160
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="Local Channel",104 Trans TV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="Local Channel",TransTV
 rtp://@239.1.1.27:8136
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="Local Channel",105 Trans 7
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="Local Channel",Trans7
 rtp://@239.1.1.29:8148
-#EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" group-title="Local Channel",106 Lejel Home Shopping
+#EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" group-title="Local Channel",Lejel Home Shopping
 rtp://@239.1.2.3:7992
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="Local Channel",107 SCTV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="Local Channel",SCTV
 rtp://@239.1.1.21:8100
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="Local Channel",108 ANTV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="Local Channel",ANTV
 rtp://@239.1.1.15:8064
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="Local Channel",109 Indosiar
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="Local Channel",Indosiar
 rtp://@239.1.1.17:8076
-#EXTINF:-1 tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" group-title="Local Channel",110 MNC Shop
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" group-title="Local Channel",MNC Shop
 rtp://@239.1.1.36:8190
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="Local Channel",112 Net TV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="Local Channel",Net.
 rtp://@239.1.1.119:8688
 #EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" group-title="Local Channel",113 Lejel Home Shopping
 rtp://@239.1.1.3:7992
