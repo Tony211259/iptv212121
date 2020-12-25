@@ -40,45 +40,45 @@ rtp://@239.1.1.17:8076
 rtp://@239.1.1.36:8190
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="Local Channel",Net.
 rtp://@239.1.1.119:8688
-#EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" group-title="Local Channel",113 Lejel Home Shopping
+#EXTINF:-1 tvg-logo="http://i.ibb.co/37kTm20/lejelhome.png" group-title="Local Channel",Lejel Home Shopping
 rtp://@239.1.1.3:7992
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="Local Channel",114 Kompas TV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="Local Channel",Kompas TV
 rtp://@239.1.1.197:9156
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="Local Channel",115 Berita Satu
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="Local Channel",Berita Satu
 rtp://@239.1.1.183:9072
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" group-title="Local Channel",116 Jak TV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" group-title="Local Channel",JakTV
 rtp://@239.1.1.107:8616
-#EXTINF:-1 tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" group-title="Local Channel",117 MNC Lifestyle
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Fm8ymb6/mncshop.png" group-title="Local Channel",MNC Life
 rtp://@239.1.2.54:8298
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="Local Channel",118 RTV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="Local Channel",Rajawali TV
 rtp://@239.1.1.69:8388
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idx_big.png" group-title="Local Channel",119 IDX Channel
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_idx_big.png" group-title="Local Channel",IDX
 rtp://@239.1.2.248:9398
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" group-title="Local Channel",120 Daai TV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" group-title="Local Channel",Daai TV
 rtp://@239.1.1.179:9048
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="Local Channel",122 Bali TV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="Local Channel",Bali TV
 rtp://@239.1.1.72:8406
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jtv_big1.png" group-title="Local Channel",123 JTV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jtv_big1.png" group-title="Local Channel",JTV
 rtp://@239.1.1.6:8010
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antara_big1.png" group-title="Local Channel",124 Antara
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antara_big1.png" group-title="Local Channel",Antara
 rtp://@239.1.1.128:9218
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_intv_big1.png" group-title="Local Channel",125 INTV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_intv_big1.png" group-title="Local Channel",Insert
 rtp://@239.1.1.162:8946
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bandungtv_big1.png" group-title="Local Channel",126 Bandung TV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bandungtv_big1.png" group-title="Local Channel",Bandung TV
 rtp://@239.1.1.176:9030
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",127 TV Edukasi
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvedukasi_big1.png" group-title="Local Channel",TV Edukasi
 rtp://@239.1.1.39:8208
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_pelangi_big1.png" group-title="Local Channel",128 Pelangi
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_pelangi_big1.png" group-title="Local Channel",Pelangi
 rtp://@239.1.1.110:8634
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rri_big1.png" group-title="Local Channel",130 RRI Net
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rri_big1.png" group-title="Local Channel",RRI NET
 rtp://@239.1.2.74:8420
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jitv_big.png" group-title="Local Channel",131 JITV
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jitv_big.png" group-title="Local Channel",JITV
 rtp://@239.1.1.238:9400
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" group-title="Knowledge",201 National Geographic
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" group-title="Knowledge",Nat Geo
 rtp://@239.1.1.169:8988
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="Knowledge",202 Natgeo Wild
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="Knowledge",Nat Geo Wild
 rtp://@239.1.1.35:8184
-#EXTINF:-1 tvg-logo="http://i.ibb.co/JnVd6cG/crimeinvestigation.png" group-title="Knowledge",203 Crime & Investigation
+#EXTINF:-1 tvg-logo="http://i.ibb.co/JnVd6cG/crimeinvestigation.png" group-title="Knowledge",Crime Investigation
 rtp://@239.1.1.59:8328
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" group-title="Knowledge",204 CGTN Documentary
 rtp://@239.1.1.121:8700
