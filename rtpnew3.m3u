@@ -428,31 +428,31 @@ rtp://@239.1.2.218:9238
 rtp://@239.1.1.246:9438
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" group-title="HD Channel",Channel News Asia HD
 rtp://@239.1.2.23:8112
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" group-title="HD Channel",Al Jazeera HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" group-title="HD Channel",Aljazeera HD
 rtp://@239.1.2.8:8022
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_france24_big.png" group-title="HD Channel",986 France 24 HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_france24_big.png" group-title="HD Channel",France 24 HD
 rtp://@239.1.2.22:8106
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="HD Channel",987 NHK World Japan HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="HD Channel",NHK World Japan HD
 rtp://@239.1.2.239:9354
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" group-title="HD Channel",988 DW HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dwtv_big.png" group-title="HD Channel",DW HD
 rtp://@239.1.2.243:9360
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_flik_big1.png" group-title="HD Channel",990 Flik HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_flik_big1.png" group-title="HD Channel",Flik HD
 rtp://@239.1.1.239:9276
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="HD Channel",991 HBO HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="HD Channel",HBO HD
 rtp://@239.1.1.203:9192
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="HD Channel",992 HBO Hits HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="HD Channel",HBO Hits HD
 rtp://@239.1.1.215:9264
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="HD Channel",993 HBO Signature HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="HD Channel",HBO Signature HD
 rtp://@239.1.2.249:9378
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="HD Channel",994 HBO Family HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="HD Channel",HBO Family HD
 rtp://@239.1.2.245:9366
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="HD Channel",995 RED HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="HD Channel",Red By HBO HD
 rtp://@239.1.1.133:8772
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="HD Channel",996 Cinemax HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="HD Channel",Cinemax HD
 rtp://@239.1.2.247:9372
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="HD Channel",997 Fox Family Movie HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="HD Channel",Fox Family Movies HD
 rtp://@239.1.1.237:9396
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="HD Channel",998 Fox Movie HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="HD Channel",Fox Movies HD
 rtp://@239.1.1.211:9240
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="HD Channel",999 Fox Action Movie HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="HD Channel",Fox Action Movies HD
 rtp://@239.1.1.190:9116
