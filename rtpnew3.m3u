@@ -3,6 +3,12 @@
 rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Local Channel", Ruang Trampil
 rtp://@239.1.1.126:8730
+#EXTINF:-1 tvg-logo="" group-title="Local Channel", RCTI
+http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96390c30696a583597f195ea52f57b786e
+#EXTINF:-1 tvg-logo="" group-title="Local Channel", MNCTV
+http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417390c30696a583597f195ea52f57b786e
+#EXTINF:-1 tvg-logo="" group-title="Local Channel", GTV
+http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708e390c30696a583597f195ea52f57b786e
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Local Channel",UseeSports
 rtp://@239.1.2.42:8194
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="Local Channel",UseeSports2
@@ -15,12 +21,6 @@ rtp://@239.1.1.216:9270
 rtp://@239.1.1.251:9498
 #EXTINF:-1 tvg-logo="http://i.ibb.co/Lh6x7GG/useetoday.png" group-title="Local Channel",USee Today
 rtp://@239.1.2.50:8274
-#EXTINF:-1 tvg-logo="" group-title="Local Channel", RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channel", MNCTV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m4a_64000=2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channel", GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-m4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="Local Channel",TVRI
 rtp://@239.1.1.37:8196
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="Local Channel",Metro TV
