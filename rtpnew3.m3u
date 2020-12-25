@@ -312,11 +312,11 @@ rtp://@239.1.1.78:8442
 rtp://@239.1.1.220:9522
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="HD Channel",Ruang Trampil HD
 rtp://@239.1.1.111:8640
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="HD Channel",905 Usee Sports HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="HD Channel",Usee Sports HD
 rtp://@239.1.2.44:8122
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="HD Channel",906 Usee Sports 2 HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="HD Channel",Usee Sports 2 HD
 rtp://@239.1.2.213:9210
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_seatoday_small.png?id=8" group-title="HD Channel",907 Sea Today HD
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_seatoday_small.png?id=8" group-title="HD Channel",Sea Today HD
 rtp://@239.1.2.70:8396
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" group-title="HD Channel",908 Usee Prime HD
 rtp://@239.1.1.252:9486
