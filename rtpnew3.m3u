@@ -312,9 +312,9 @@ rtp://@239.1.1.78:8442
 rtp://@239.1.1.220:9522
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="HD Channel",Ruang Trampil HD
 rtp://@239.1.1.111:8640
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="HD Channel",Usee Sports HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="HD Channel",UseeSports HD
 rtp://@239.1.2.44:8122
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="HD Channel",Usee Sports 2 HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="HD Channel",UseeSports2 HD
 rtp://@239.1.2.213:9210
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_seatoday_small.png?id=8" group-title="HD Channel",Sea Today HD
 rtp://@239.1.2.70:8396
@@ -324,67 +324,67 @@ rtp://@239.1.1.252:9486
 rtp://@239.1.2.24:8118
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="HD Channel",Net. HD
 rtp://@239.1.1.158:8922
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="HD Channel",911 TransTV HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="HD Channel",TransTV HD
 rtp://@239.1.1.194:9138
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="HD Channel",912 Trans7 HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_trans7_big1.png" group-title="HD Channel",Trans7 HD
 rtp://@239.1.1.222:9306
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="HD Channel",913 CNN Indonesia HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="HD Channel",CNN Indonesia HD
 rtp://@239.1.1.180:9054
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="HD Channel",914 SCTV HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="HD Channel",SCTV HD
 rtp://@239.1.2.58:8324
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="HD Channel",915 METRO TV HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="HD Channel",Metro TV HD
 rtp://@239.1.2.2:7986
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" group-title="HD Channel",920 National Geographic HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" group-title="HD Channel",Nat Geo HD
 rtp://239.1.1.243:9432
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="HD Channel",921 Natgeo Wild HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="HD Channel",Nat Geo Wild HD
 rtp://@239.1.1.207:9216
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="HD Channel",922 History Channel HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="HD Channel",History HD
 rtp://@239.1.1.23:8112
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" group-title="HD Channel",924 CGTN Documentary HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" group-title="HD Channel",CGTN Documentary HD
 rtp://@239.1.2.4:7998
-#EXTINF:-1 tvg-logo="http://i.ibb.co/HT1tRCH/disneychannel.png" group-title="HD Channel",930 Disney Channel HD
+#EXTINF:-1 tvg-logo="http://i.ibb.co/HT1tRCH/disneychannel.png" group-title="HD Channel",Disney Channel HD
 rtp://@239.1.1.201:9180
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="HD Channel",932 DreamWork HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" group-title="HD Channel",Dreamworks HD
 rtp://@239.1.1.234:9222
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Dolby HD",935 HBO Dolby HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Dolby HD",HBO HD
 rtp://@239.1.2.114:9428
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Dolby HD",936 HBO Signature Dolby HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Dolby HD",HBO Signature HD
 rtp://@239.1.2.116:9404
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Dolby HD",937 HBO Hits Dolby HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Dolby HD",HBO Hits HD
 rtp://@239.1.2.204:9182
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Dolby HD",938 HBO Family Dolby HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Dolby HD",HBO Family HD
 rtp://@239.1.2.202:9176
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Dolby HD",939 Cinemax Dolby HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Dolby HD",Cinemax HD
 rtp://@239.1.2.206:9186
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" group-title="HD Channel",940 Fashion TV HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashiontv_big1.png" group-title="HD Channel",Fashion TV HD
 rtp://@239.1.2.237:9348
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" group-title="HD Channel",941 Natgeo People HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" group-title="HD Channel",Nat Geo People HD
 rtp://@239.1.2.229:9330
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bdgNQV0/vchannel.png" group-title="HD Channel",942 Channel [V] HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdgNQV0/vchannel.png" group-title="HD Channel",Channel [V] HD
 rtp://@239.1.2.235:9342
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_afc_big.png" group-title="HD Channel",943 AFN HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_afc_big.png" group-title="HD Channel",Asian Food Network HD
 rtp://@239.1.2.13:8052
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sbsin_big.png" group-title="HD Channel",945 SBS-IN HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sbsin_big.png" group-title="HD Channel",SBS-IN HD
 rtp://@239.1.2.25:8124
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashionone_big1.png" group-title="HD Channel",947 Fashion One HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashionone_big1.png" group-title="HD Channel",Fashion One HD
 rtp://@239.1.1.14:8058
-#EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" group-title="HD Channel",948 MTV Live HD
+#EXTINF:-1 tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" group-title="HD Channel",MTV Live HD
 rtp://@239.1.2.16:8070
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="HD Channel",950 FOXlife
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="HD Channel",FOX Life
 rtp://@239.1.1.209:9228
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="HD Channel",951 FOX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="HD Channel",FOX HD
 rtp://@239.1.1.247:9440
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="HD Channel",952 K+ HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="HD Channel",Kplus HD
 rtp://@239.1.1.202:9186
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="HD Channel",953 NHK World Premium HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="HD Channel",NHK World Premium HD
 rtp://@239.1.1.174:9018
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="HD Channel",954 KIX HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="HD Channel",KIX HD
 rtp://@239.1.2.207:9190
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" group-title="HD Channel",955 TVN HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvn_big.png" group-title="HD Channel",TVN HD
 rtp://@239.1.2.211:9202
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="HD Channel",956 FOX Crime HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="HD Channel",FOX Crime HD
 rtp://@239.1.2.225:9318
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3CyTjks/fx.png" group-title="HD Channel",957 FX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3CyTjks/fx.png" group-title="HD Channel",FX HD
 rtp://@239.1.2.227:9324
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" group-title="HD Channel",958 KBS World HD
 rtp://@239.1.1.13:8052
