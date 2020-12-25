@@ -318,11 +318,11 @@ rtp://@239.1.2.44:8122
 rtp://@239.1.2.213:9210
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_seatoday_small.png?id=8" group-title="HD Channel",Sea Today HD
 rtp://@239.1.2.70:8396
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" group-title="HD Channel",908 Usee Prime HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" group-title="HD Channel",Usee Prime HD
 rtp://@239.1.1.252:9486
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useephoto_big1.png" group-title="HD Channel",909 Usee Photo HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useephoto_big1.png" group-title="HD Channel",Usee Photo HD
 rtp://@239.1.2.24:8118
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="HD Channel",910 Net TV HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="HD Channel",Net. HD
 rtp://@239.1.1.158:8922
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_transtv_big1.png" group-title="HD Channel",911 TransTV HD
 rtp://@239.1.1.194:9138
