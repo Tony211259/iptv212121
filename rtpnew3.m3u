@@ -386,51 +386,49 @@ rtp://@239.1.2.211:9202
 rtp://@239.1.2.225:9318
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3CyTjks/fx.png" group-title="HD Channel",FX HD
 rtp://@239.1.2.227:9324
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" group-title="HD Channel",958 KBS World HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" group-title="HD Channel",KBS World HD
 rtp://@239.1.1.13:8052
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_wakuwaku_big.png" group-title="HD Channel",959 WakuWaku Japan HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_wakuwaku_big.png" group-title="HD Channel",Waku Waku Japan HD
 rtp://@239.1.1.244:9434
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="HD Channel",960 AXN HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="HD Channel",AXN HD
 rtp://@239.1.1.245:9436
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_diva_big.png" group-title="HD Channel",961 DIVA HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_diva_big.png" group-title="HD Channel",DIVA HD
 rtp://@239.1.1.24:8118
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" group-title="HD Channel",962 Lifetime HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_lifetime_big.png" group-title="HD Channel",Lifetime HD
 rtp://@239.1.1.25:8124
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_eentertainment_big.png" group-title="HD Channel",963 E! Entertainment HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_eentertainment_big.png" group-title="HD Channel",E! Entertainment HD
 rtp://@239.1.1.26:8130
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_warner_big.png" group-title="HD Channel",964 Warner HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_warner_big.png" group-title="HD Channel",Warner HD
 rtp://@239.1.2.244:9078
-#EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="HD Channel",968 Star Chinese Movies HD
+#EXTINF:-1 tvg-logo="http://i.ibb.co/6bX6tPj/starchinese.png" group-title="HD Channel",Star Chinese Movies HD
 rtp://@239.1.2.231:9336
-#EXTINF:-1 tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" group-title="Gen Entertainment",969 TVN Movie HD
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" group-title="Gen Entertainment",TVN Movies HD
 rtp://@239.1.2.72:8408
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="HD Channel",970 Bein1 HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="HD Channel",BeIN Sport 1 HD
 rtp://@239.1.1.248:9494
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="HD Channel",971 Bein2 HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="HD Channel",BeIN Sport 2 HD
 rtp://@239.1.1.249:9496
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="HD Channel",972 Bein3 HD
-#rtp://@239.1.1.205:9204
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" group-title="HD Channel",973 FoxSport HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports1_big.png" group-title="HD Channel",Fox Sport 1 HD
 rtp://@239.1.2.201:9174
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports2_big.png" group-title="HD Channel",974 FoxSport2 HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports2_big.png" group-title="HD Channel",Fox Sport 2 HD
 rtp://@239.1.2.203:9180
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports3_big.png" group-title="HD Channel",975 FoxSport3 HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_foxsports3_big.png" group-title="HD Channel",Fox Sport 3 HD
 rtp://@239.1.2.205:9186
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="HD Channel",976 Fight Sport HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="HD Channel",Fight Sports HD
 rtp://@239.1.2.209:9196
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" group-title="HD Channel",977 NBA TV-HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" group-title="HD Channel",NBA TV HD
 rtp://@239.1.2.210:9444
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_golfplus_big1.png" group-title="HD Channel",979 Golf+ HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_golfplus_big1.png" group-title="HD Channel",Golf HD
 rtp://@239.1.2.214:9214
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_champ1_big.png" group-title="HD Channel",980 Champions TV1 HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_champ1_big.png" group-title="HD Channel",Champion TV 1 HD
 rtp://@239.1.2.216:9226
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_champ2_big.png" group-title="HD Channel",981 Champions TV2 HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_champ2_big.png" group-title="HD Channel",Champion TV 2 HD
 rtp://@239.1.2.218:9238
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" group-title="HD Channel",982 CNN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" group-title="HD Channel",CNN International HD
 rtp://@239.1.1.246:9438
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" group-title="HD Channel",984 Channel News Asia HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" group-title="HD Channel",Channel News Asia HD
 rtp://@239.1.2.23:8112
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" group-title="HD Channel",985 Al Jazeera HD
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" group-title="HD Channel",Al Jazeera HD
 rtp://@239.1.2.8:8022
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_france24_big.png" group-title="HD Channel",986 France 24 HD
 rtp://@239.1.2.22:8106
