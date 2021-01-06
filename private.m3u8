@@ -174,68 +174,15 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8#EXTINF:-1 tvg-id="" tvg-logo
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/World_Fishing_Network_logo.png/220px-World_Fishing_Network_logo.png" group-title="Sports",Fishing Network
 http://cekker.masuk.web.id/exo/playlist/plus-fishing-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7Wcpfg43IV9VRei_pOBaPQC9W4A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="Radio",Ardan Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-ardan-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hdQkOJBYCV9kgSQuU1P-5u90RtU=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg" group-title="Radio", Geronimo Fm
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-geronimo-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NIuoPKwHFGtNGEc715_Ww3P4_5g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7248/swaragama-fm-jogja-69421e.jpg" group-title="Radio",Swaragama Fm
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-swaragama-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hn3XKfDf/iradio-fm-5ae133.png" group-title="Radio",I Radio 
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-i-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJj0WxWf/hardrock-725b7c.png" group-title="Radio",HardRock Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-hardrock-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpDJX7Mj/prambors-on-air-1df97b.png" group-title="Radio",Prambors Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-prambors-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvSxXVGR/cosmopolitan-df0bea.png" group-title="Radio",Cosmopolitan Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-cosmopolitan-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHM7SKGg/brava-audio-98ab26.png" group-title="Radio",Brava Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-brava-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLrcn4w2/trax-radio-fm-f696e0.png" group-title="Radio",Trax Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-trax-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2nR6Yh9/bahana-fm-a72d38.png" group-title="Radio",Bahana Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-bahana-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Cxdw8SQM/delta-fm-8a4ed5.png" group-title="Radio",Delta Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-delta-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/439Z8wGr/elshinta-90-fm-be16c3.png" group-title="Radio",El Shinta Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-elshinta-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdPhkw2Q/female-fm-6085d4.png" group-title="Radio",Female Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-female-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/fmqESC8uljOlgFZz6JxmjtYoVk0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="Radio",MGTRadio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-mgt-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jPSwS6rN9I1X9BqghRJTWN9Ta7k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7281/imelda-fm-62c9f4.jpg" group-title="Radio",Imelda Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-imelda-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8usx95AOsZ0POriTOsdSHHI__L0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="Radio",Cakra Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-cakra-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KgJ6b4lRGVt24lH4j7qS98CKL4U=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7218/sushi-radio-1e2940.jpg" group-title="Radio",Sushi Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-sushi-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dJo5PONM3DRF25nLwJsLbrjSTuQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="Radio",Dahlia Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-dahlia-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dpKRalVmGXuqHQt4Xs_uI73Qwzw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7284/gajahmada-b307da.jpg" group-title="Radio",Gajahmada Radio
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-gajahmada-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xjEaP8UM1tlal5tY2NOcdyyiJv0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7283/swara-semarang-579dc0.jpg" group-title="Radio",Radio Swara Semarang
-http://cekker.masuk.web.id/exo/playlist/vidio-radio-semarang-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_big.png" group-title="Music",MTV Live
 http://cekker.masuk.web.id/exo/playlist/mtvlive-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="Music",Prambors Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="Music",Prambors 
 http://cekker.masuk.web.id/exo/playlist/pramborstv-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ikonser_big.png" group-title="Music",I Konser
 http://cekker.masuk.web.id/exo/playlist/ikonser-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/zing.png" group-title="Music",Zing
 http://cekker.masuk.web.id/exo/playlist/vidio-zing-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music",Citra Dangdut
-http://cekker.masuk.web.id/exo/playlist/citradangdut-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/channel-v-international.jpg" group-title="Music",[V] Channel
-http://cekker.masuk.web.id/exo/playlist/plus-v-MasterZalogiTV.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/460661152372903936/KnkCJe5S_400x400.jpeg" group-title="Music",Musica Studio
-http://cekker.masuk.web.id/exo/playlist/yt-musicastudio-MasterZalogiTV.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indieinmind.com/wp-content/uploads/2015/12/logo-perusahaan-5.jpg" group-title="Music",Nagaswara
-http://cekker.masuk.web.id/exo/playlist/yt-nagaswara-MasterZalogiTV.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hellomotion.com/sites/default/files/kdri%20dangdut%20jadi.png" group-title="Music",Dangdut Live
-http://cekker.masuk.web.id/exo/playlist/yt-dangdutlive-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/muslim.png" group-title="Religi",Muslim
-http://cekker.masuk.web.id/exo/playlist/vidio-muslim-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/alkareem.png" group-title="Religi",Al Quran
-http://cekker.masuk.web.id/exo/playlist/alquran-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/ucha.png" group-title="Religi",UChannel
 http://cekker.masuk.web.id/exo/playlist/uchannel-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/refr.png" group-title="Religi",Reformed 21
