@@ -1,14 +1,14 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-ID="TransTV.id" tvg-logo="http://cekker.masuk.web.id/logo/transtv.png" group-title="Lokal",TRANSTV
+#EXTINF:-1 tvg-ID="TransTV" tvg-logo="http://cekker.masuk.web.id/logo/transtv.png" group-title="Lokal",Trans TV
 http://cekker.masuk.web.id/exo/playlist/vidio-transtv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="TransTV.id" tvg-logo="http://cekker.masuk.web.id/logo/transu.png" group-title="Lokal",TRANSTV
+#EXTINF:-1 tvg-ID="TransTV" tvg-logo="http://cekker.masuk.web.id/logo/transu.png" group-title="Lokal",Trans TV
 http://cekker.masuk.web.id/exo/playlist/transtv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Trans7.id" tvg-logo="http://cekker.masuk.web.id/logo/trans7.png" group-title="Lokal",TRANS7
+#EXTINF:-1 tvg-ID="Trans7" tvg-logo="http://cekker.masuk.web.id/logo/trans7.png" group-title="Lokal",Trans 7
 http://cekker.masuk.web.id/exo/playlist/vidio-trans7-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Trans7.id" tvg-logo="http://cekker.masuk.web.id/logo/trans7u.png" group-title="Lokal",TRANS7
+#EXTINF:-1 tvg-ID="Trans7" tvg-logo="http://cekker.masuk.web.id/logo/trans7u.png" group-title="Lokal",Trans 7
 http://cekker.masuk.web.id/exo/playlist/trans7-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="rcti" tvg-logo="http://cekker.masuk.web.id/logo/rctiv.png" group-title="Lokal",RCTI
+#EXTINF:-1 tvg-ID="RCTI" tvg-logo="http://cekker.masuk.web.id/logo/rctiv.png" group-title="Lokal",RCTI HD
 http://cekker.masuk.web.id/exo/playlist/vidio-rcti-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="mnctv" tvg-logo="http://cekker.masuk.web.id/logo/mncc.png" group-title="Lokal",MNC
 http://cekker.masuk.web.id/exo/playlist/vidio-mnc-MasterZalogiTV.m3u8
