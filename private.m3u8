@@ -53,17 +53,20 @@ http://cekker.masuk.web.id/exo/playlist/vidio-rtv-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="rtv" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/rtvv.png", Rajawali TV
 http://cekker.masuk.web.id/exo/playlist/rtv-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-id="tvone" tvg-name="TVOne.id" tvg-logo="http://cekker.masuk.web.id/logo/tvone.jpg" group-title="Lokal",TV ONE
-http://cekker.masuk.web.id/exo/playlist/yt-tvone-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-id="tvone" tvg-name="TVOne.id" tvg-logo="http://cekker.masuk.web.id/logo/tvone.jpg" group-title="Lokal",TV ONE
-http://cekker.masuk.web.id/exo/playlist/plus-tvone-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="ANTV.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/antvv.png", ANTV
-http://cekker.masuk.web.id/exo/playlist/plus-antv-MasterZalogiTV.m3u8
+http://210.210.155.35:80/session/46b1ce9e-2ecf-11eb-a83f-b82a72d63267/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 tvg-ID="antv" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/antvv.png", ANTV
+http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-id="hbo" tvg-logo="https://pbs.twimg.com/profile_images/1277608697624014849/E5S6vNgw_200x200.jpg" group-title="Movies",HBO http://158.140.171.166/utv/hbo.m3u8 
-#EXTINF:-1 tvg-id="hbosignature" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_3hbo_signature.jpg" group-title="Movies",HBO Signature http://158.140.171.166/utv/hbosig.m3u8 
-#EXTINF:-1 tvg-id="hbofamily" tvg-logo="https://pbs.twimg.com/profile_images/551547558946799616/wljIdAY7_200x200.png" group-title="Movies",HBO Family http://158.140.171.166/utv/hbofam.m3u8 
-#EXTINF:-1 tvg-id="hbohits" tvg-logo="https://pbs.twimg.com/profile_images/2960693673/0961a89811c9776b5a66116d9029d5af_200x200.png" group-title="Movies",HBO Hits http://158.140.171.166/utv/hbohit.m3u8 
-#EXTINF:-1 tvg-id="redbyhbo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_(logo).jpg" group-title="Movies",Red By HBO http://158.140.171.166/utv/red.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://pbs.twimg.com/profile_images/1277608697624014849/E5S6vNgw_200x200.jpg" group-title="Movies",HBO 
+http://158.140.171.166/utv/hbo.m3u8 
+#EXTINF:-1 tvg-id="hbosignature" tvg-logo="https://tube.hk/images/tv_cache/c/400x400_3hbo_signature.jpg" group-title="Movies",HBO Signature 
+http://158.140.171.166/utv/hbosig.m3u8 
+#EXTINF:-1 tvg-id="hbofamily" tvg-logo="https://pbs.twimg.com/profile_images/551547558946799616/wljIdAY7_200x200.png" group-title="Movies",HBO Family 
+http://158.140.171.166/utv/hbofam.m3u8 
+#EXTINF:-1 tvg-id="hbohits" tvg-logo="https://pbs.twimg.com/profile_images/2960693673/0961a89811c9776b5a66116d9029d5af_200x200.png" group-title="Movies",HBO Hits 
+http://158.140.171.166/utv/hbohit.m3u8 
+#EXTINF:-1 tvg-id="redbyhbo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_(logo).jpg" group-title="Movies",Red By HBO 
+http://158.140.171.166/utv/red.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/drama5.png" group-title="Movies",Citra Drama
 http://cekker.masuk.web.id/exo/playlist/cdrama-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-id="zbioskop" tvg-logo="http://cekker.masuk.web.id/logo/zeeb.png" group-title="Movies",Zee Bioskop
@@ -76,10 +79,6 @@ http://cekker.masuk.web.id/exo/playlist/bioskopindonesia-MasterZalogiTV.m3u8
 http://cekker.masuk.web.id/exo/playlist/cinemaworld-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies",Celestial Movie
 http://cekker.masuk.web.id/exo/playlist/celestialmovie-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://assets.fxnetworks.com/shows/fxnetworks/photos/logos/fx.jpg" group-title="Movies",FX
-http://cekker.masuk.web.id/exo/playlist/plus-fx-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="CCM.id" group-title="Movies" tvg-logo="https://i.postimg.cc/RV9n38V9/ccm4.png", Celestial Classic Movies
-http://cekker.masuk.web.id/exo/playlist/plus-ccm-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies",Thrill
 http://cekker.masuk.web.id/exo/playlist/thrill-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",Warner
@@ -89,11 +88,7 @@ http://cekker.masuk.web.id/exo/playlist/chinesedrama-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Movies",Galaxy Premium
 http://cekker.masuk.web.id/exo/playlist/galaxypremium-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-Hits-HD-Ch720.png" group-title="Movies",Hits
-http://cekker.masuk.web.id/exo/playlist/plus-hits-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies",Hits Movies
-http://cekker.masuk.web.id/exo/playlist/plus-hitsmovies-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXJh93zF/95.jpg" group-title="Movies",My Cinema
-http://cekker.masuk.web.id/exo/playlist/plus-mycinema-MasterZalogiTV.m3u8
+http://rr.dens.tv/h/h37/01.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/enter5.png" group-title="Entertainment",Citra Entertainment
 http://cekker.masuk.web.id/exo/playlist/vidio-citraentertainment-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/tvnr.png" group-title="Entertainment",TVN
