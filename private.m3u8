@@ -218,42 +218,24 @@ http://cekker.masuk.web.id/exo/playlist/animax-MasterZalogiTV.m3u8
 http://cekker.masuk.web.id/exo/playlist/aniplus-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="babyfirst" group-title="Kids" tvg-logo="https://i.postimg.cc/tRMNkc1z/logo-babyfirst-small.png",Baby First
 http://cekker.masuk.web.id/exo/playlist/babyfirst-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Cartoon Network" group-title="Kids" tvg-logo="https://i.postimg.cc/90KPf43k/logo-duck-small1.png",Duck Tv
+#EXTINF:-1 tvg-ID="ducktv" group-title="Kids" tvg-logo="https://i.postimg.cc/90KPf43k/logo-duck-small1.png",Duck Tv
 http://cekker.masuk.web.id/exo/playlist/ducktv-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="Cartoon Network" group-title="Kids" tvg-logo="https://i.postimg.cc/ncNTFWpL/logo-cartoonnetwork-small-1.png",Cartoon Network
 http://cekker.masuk.web.id/exo/playlist/cartoonnetwork-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Cartoon Network" group-title="Kids" tvg-logo="https://i.postimg.cc/85yBqKZN/logo-duniaanak-small1.png",Dunia Anak
+#EXTINF:-1 tvg-ID="duniaanak" group-title="Kids" tvg-logo="https://i.postimg.cc/85yBqKZN/logo-duniaanak-small1.png",Dunia Anak
 http://cekker.masuk.web.id/exo/playlist/duniaanak-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Cartoon Network" group-title="Kids" tvg-logo="https://i.postimg.cc/MTZm32b9/logo-nickjr-small-2.png",Nick Junior
+#EXTINF:-1 tvg-ID="nickjr" group-title="Kids" tvg-logo="https://i.postimg.cc/MTZm32b9/logo-nickjr-small-2.png",Nick Junior
 http://cekker.masuk.web.id/exo/playlist/nickjr-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Cartoon Network" group-title="Kids" tvg-logo="https://i.postimg.cc/zfFkkXWL/logo-nickelodeon-small-1.png",Nickleodon
+#EXTINF:-1 tvg-ID="nickelodeon" group-title="Kids" tvg-logo="https://i.postimg.cc/zfFkkXWL/logo-nickelodeon-small-1.png",Nickleodon
 http://cekker.masuk.web.id/exo/playlist/nickelodeon-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Cartoon Network" group-title="Kids" tvg-logo="https://i.postimg.cc/k5mc8tV3/logo-davinci-small1.png",Davinci Learn
+#EXTINF:-1 tvg-ID="davinci" group-title="Kids" tvg-logo="https://i.postimg.cc/k5mc8tV3/logo-davinci-small1.png",Davinci Learn
 http://cekker.masuk.web.id/exo/playlist/davinci-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Cartoon Network" group-title="Kids" tvg-logo="https://i.postimg.cc/NjTD5xjk/logo-dreamworks-small1-1.png",Dreamwork
+#EXTINF:-1 tvg-ID="dreamwork" group-title="Kids" tvg-logo="https://i.postimg.cc/NjTD5xjk/logo-dreamworks-small1-1.png",Dreamwork
 http://cekker.masuk.web.id/exo/playlist/dreamworks-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Cartoon Network" group-title="Kids" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_big.png",My Kids
+#EXTINF:-1 tvg-ID="mykids" group-title="Kids" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_big.png",My Kids
 http://cekker.masuk.web.id/exo/playlist/mykids-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="" group-title="Kids" tvg-logo="https://w0.pngwave.com/png/371/211/disney-channel-television-channel-disney-xd-the-walt-disney-company-disney-junior-channel-logo-png-clip-art.png",Disney Indonesia
-http://cekker.masuk.web.id/exo/playlist/plus-disney-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="" group-title="Kids" tvg-logo="https://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg",Disney Junior
-http://cekker.masuk.web.id/exo/playlist/plus-disneyjr-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1024px-Logo_Disney_XD.svg.png",Disney XD
-http://cekker.masuk.web.id/exo/playlist/plus-disneyxd-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",Space toon
-http://cekker.masuk.web.id/exo/playlist/plus-spacetoon-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="" group-title="Kids" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/5202/brand.gif",CBeebies
-http://cekker.masuk.web.id/exo/playlist/plus-cbeebies-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Animal-Planet-New.png" group-title="Knowledge",Animal Planet
-http://cekker.masuk.web.id/exo/playlist/plus-animal-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/lovenat.png" group-title="Knowledge",Love Nature
-http://cekker.masuk.web.id/exo/playlist/plus-lovenature-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/smith.png" group-title="Knowledge",Smithsonian
-http://cekker.masuk.web.id/exo/playlist/plus-smithsonian-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Knowledge" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_big.png",Discovery Channel
 http://cekker.masuk.web.id/exo/playlist/disco-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="" group-title="Knowledge" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2018/03/logo-train-discovery-asia.png",Discovery Asia
-http://cekker.masuk.web.id/exo/playlist/plus-discoasia-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Knowledge" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",History
 http://cekker.masuk.web.id/exo/playlist/history-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="" group-title="Knowledge" tvg-logo="https://i.postimg.cc/J4xRTKbz/logo_natgeopeople_small.png",Nat Geo People
