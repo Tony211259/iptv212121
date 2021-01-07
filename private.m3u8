@@ -34,13 +34,13 @@ http://cekker.masuk.web.id/exo/playlist/metrotv-MasterZalogiTV.m3u8
 http://cekker.masuk.web.id/exo/playlist/vidio-kompastv-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="Kompastv.id" tvg-logo="http://cekker.masuk.web.id/logo/kompasu.png" group-title="Lokal",Kompas TV
 http://cekker.masuk.web.id/exo/playlist/kompastv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="BeritaSatu.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/bs.png", BERITASATU
+#EXTINF:-1 tvg-ID="BeritaSatu.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/bs.png", Berita Satu
 http://cekker.masuk.web.id/exo/playlist/vidio-beritasatu-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="BeritaSatu.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/bs.png", BERITASATU
+#EXTINF:-1 tvg-ID="BeritaSatu.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/bs.png", Berita Satu
 http://cekker.masuk.web.id/exo/playlist/beritasatu-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="tvri.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/tvri.png", TVRI
+#EXTINF:-1 tvg-ID="tvri" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/tvri.png", TVRI
 http://cekker.masuk.web.id/exo/playlist/vidio-tvri-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="tvri.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/tvri.png", TVRI
+#EXTINF:-1 tvg-ID="tvri" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/tvri.png", TVRI
 http://cekker.masuk.web.id/exo/playlist/tvri-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="iNews.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/inewsss.png", INEWS HD
 http://cekker.masuk.web.id/exo/playlist/vidio-inews-MasterZalogiTV.m3u8
