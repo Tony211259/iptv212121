@@ -14,9 +14,9 @@ http://cekker.masuk.web.id/exo/playlist/vidio-rcti-MasterZalogiTV.m3u8
 http://cekker.masuk.web.id/exo/playlist/vidio-mnc-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="gtv" tvg-logo="http://cekker.masuk.web.id/logo/gtvv.png" group-title="Lokal",Global TV
 http://cekker.masuk.web.id/exo/playlist/vidio-gtv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Nettv.id" tvg-name="NET TV" tvg-logo="http://cekker.masuk.web.id/logo/nettv.png" group-title="Lokal",Net. HD
+#EXTINF:-1 tvg-ID="net" tvg-name="NET TV" tvg-logo="http://cekker.masuk.web.id/logo/nettv.png" group-title="Lokal",Net. HD
 http://cekker.masuk.web.id/exo/playlist/vidio-nettv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Nettv.id" tvg-name="NET TV" tvg-logo="http://cekker.masuk.web.id/logo/nettv.png" group-title="Lokal",Net.
+#EXTINF:-1 tvg-ID="net" tvg-name="NET TV" tvg-logo="http://cekker.masuk.web.id/logo/nettv.png" group-title="Lokal",Net.
 http://cekker.masuk.web.id/exo/playlist/net-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="SCTV" tvg-logo="http://cekker.masuk.web.id/logo/sctv.png" group-title="Lokal",SCTV
 http://cekker.masuk.web.id/exo/playlist/vidio-sctv-MasterZalogiTV.m3u8
@@ -26,35 +26,35 @@ http://cekker.masuk.web.id/exo/playlist/sctv-MasterZalogiTV.m3u8
 http://cekker.masuk.web.id/exo/playlist/vidio-indosiar-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="Indosiar" tvg-logo="http://cekker.masuk.web.id/logo/indou.png" group-title="Lokal",INDOSIAR
 http://cekker.masuk.web.id/exo/playlist/indosiar-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Metrotv.id" tvg-logo="http://cekker.masuk.web.id/logo/metro.png" group-title="Lokal",Metro TV
+#EXTINF:-1 tvg-ID="metrotv" tvg-logo="http://cekker.masuk.web.id/logo/metro.png" group-title="Lokal",Metro TV
 http://cekker.masuk.web.id/exo/playlist/vidio-metrotv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Metrotv.id" tvg-logo="http://cekker.masuk.web.id/logo/metrou.png" group-title="Lokal",Metro TV
+#EXTINF:-1 tvg-ID="metrotv" tvg-logo="http://cekker.masuk.web.id/logo/metrou.png" group-title="Lokal",Metro TV
 http://cekker.masuk.web.id/exo/playlist/metrotv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Kompastv.id" tvg-logo="http://cekker.masuk.web.id/logo/kom.png" group-title="Lokal",Kompas TV
+#EXTINF:-1 tvg-ID="kompastv" tvg-logo="http://cekker.masuk.web.id/logo/kom.png" group-title="Lokal",Kompas TV
 http://cekker.masuk.web.id/exo/playlist/vidio-kompastv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="Kompastv.id" tvg-logo="http://cekker.masuk.web.id/logo/kompasu.png" group-title="Lokal",Kompas TV
+#EXTINF:-1 tvg-ID="kompastv" tvg-logo="http://cekker.masuk.web.id/logo/kompasu.png" group-title="Lokal",Kompas TV
 http://cekker.masuk.web.id/exo/playlist/kompastv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="BeritaSatu.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/bs.png", Berita Satu
+#EXTINF:-1 tvg-ID="beritasatu" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/bs.png", Berita Satu
 http://cekker.masuk.web.id/exo/playlist/vidio-beritasatu-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="BeritaSatu.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/bs.png", Berita Satu
+#EXTINF:-1 tvg-ID="beritasatu" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/bs.png", Berita Satu
 http://cekker.masuk.web.id/exo/playlist/beritasatu-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="tvri" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/tvri.png", TVRI
 http://cekker.masuk.web.id/exo/playlist/vidio-tvri-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="tvri" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/tvri.png", TVRI
 http://cekker.masuk.web.id/exo/playlist/tvri-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="iNews.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/inewsss.png", INEWS HD
+#EXTINF:-1 tvg-ID="inews" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/inewsss.png", INEWS HD
 http://cekker.masuk.web.id/exo/playlist/vidio-inews-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="JakTV" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/jak.png", Jak TV
 http://cekker.masuk.web.id/exo/playlist/vidio-jaktv-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="JakTV" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/jak.png", Jak TV
 http://cekker.masuk.web.id/exo/playlist/jaktv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="RajawaliTV.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/rtvv.png", Rajawali TV
+#EXTINF:-1 tvg-ID="rtv" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/rtvv.png", Rajawali TV
 http://cekker.masuk.web.id/exo/playlist/vidio-rtv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="RajawaliTV.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/rtvv.png", Rajawali TV
+#EXTINF:-1 tvg-ID="rtv" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/rtvv.png", Rajawali TV
 http://cekker.masuk.web.id/exo/playlist/rtv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVOne.id" tvg-logo="http://cekker.masuk.web.id/logo/tvone.jpg" group-title="Lokal",TV ONE
+#EXTINF:-1 tvg-id="tvone" tvg-name="TVOne.id" tvg-logo="http://cekker.masuk.web.id/logo/tvone.jpg" group-title="Lokal",TV ONE
 http://cekker.masuk.web.id/exo/playlist/yt-tvone-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVOne.id" tvg-logo="http://cekker.masuk.web.id/logo/tvone.jpg" group-title="Lokal",TV ONE
+#EXTINF:-1 tvg-id="tvone" tvg-name="TVOne.id" tvg-logo="http://cekker.masuk.web.id/logo/tvone.jpg" group-title="Lokal",TV ONE
 http://cekker.masuk.web.id/exo/playlist/plus-tvone-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="ANTV.id" group-title="Lokal" tvg-logo="http://cekker.masuk.web.id/logo/antvv.png", ANTV
 http://cekker.masuk.web.id/exo/playlist/plus-antv-MasterZalogiTV.m3u8
