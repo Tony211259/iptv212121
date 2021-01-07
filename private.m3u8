@@ -89,33 +89,31 @@ http://cekker.masuk.web.id/exo/playlist/chinesedrama-MasterZalogiTV.m3u8
 http://cekker.masuk.web.id/exo/playlist/galaxypremium-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-Hits-HD-Ch720.png" group-title="Movies",Hits
 http://rr.dens.tv/h/h37/01.m3u8
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/enter5.png" group-title="Entertainment",Citra Entertainment
-http://cekker.masuk.web.id/exo/playlist/vidio-citraentertainment-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/tvnr.png" group-title="Entertainment",TVN
 http://cekker.masuk.web.id/exo/playlist/tvn-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/tvnm4.png" group-title="Entertainment",Tvn Movies
 http://cekker.masuk.web.id/exo/playlist/tvnmovies-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/axn4.png" group-title="Entertainment",AXN
 http://cekker.masuk.web.id/exo/playlist/axn-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="BlueAntUseeTV.id" group-title="Entertainment" tvg-logo="http://cekker.masuk.web.id/logo/blred4.png", BlueAnt
+#EXTINF:-1 tvg-ID="blueant" group-title="Entertainment" tvg-logo="http://cekker.masuk.web.id/logo/blred4.png", BlueAnt
 http://cekker.masuk.web.id/exo/playlist/blueant-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="BlueAntExtreme.id" group-title="Entertainment" tvg-logo="http://cekker.masuk.web.id/logo/blu4.png", BlueAnt Extreme
+#EXTINF:-1 tvg-ID="blueantextreme" group-title="Entertainment" tvg-logo="http://cekker.masuk.web.id/logo/blu4.png", BlueAnt Extreme
 http://cekker.masuk.web.id/exo/playlist/blueantextreme-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/ari.png" group-title="Entertainment",Arirang
 http://cekker.masuk.web.id/exo/playlist/vidio-arirang-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="imc" group-title="Entertainment" tvg-logo="https://i.postimg.cc/Cx70FYP1/logo-imc-small.png", IMC
 http://cekker.masuk.web.id/exo/playlist/imc-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="BlueAntExtreme.id" group-title="Entertainment" tvg-logo="https://i.postimg.cc/c13gqCg7/galaxy.jpg", Galaxy
+#EXTINF:-1 tvg-ID="galaxy" group-title="Entertainment" tvg-logo="https://i.postimg.cc/c13gqCg7/galaxy.jpg", Galaxy
 http://cekker.masuk.web.id/exo/playlist/galaxy-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-ID="KBS World" group-title="Entertainment" tvg-logo="https://i.postimg.cc/Wp9D2VZ3/logo-kplus-small1.png", K Plus
 http://cekker.masuk.web.id/exo/playlist/kplus-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="WakuWakuUseeTV.id" group-title="Entertainment" tvg-logo="https://i.postimg.cc/T1ccSk0K/logo-wakuwaku-small.png", WakuWaku
+#EXTINF:-1 tvg-ID="wakuwaku" group-title="Entertainment" tvg-logo="https://i.postimg.cc/T1ccSk0K/logo-wakuwaku-small.png", WakuWaku
 http://cekker.masuk.web.id/exo/playlist/wakuwaku-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="GEMChannel.id" group-title="Entertainment" tvg-logo="https://i.postimg.cc/ncRzk4xT/logo-sgem-small.png", SGEM
+#EXTINF:-1 tvg-ID="sgem" group-title="Entertainment" tvg-logo="https://i.postimg.cc/ncRzk4xT/logo-sgem-small.png", SGEM
 http://cekker.masuk.web.id/exo/playlist/sgem-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="KIX.id" group-title="Entertainment" tvg-logo="https://i.postimg.cc/Jz6B4WTd/kix4.png", KIX
+#EXTINF:-1 tvg-ID="kix" group-title="Entertainment" tvg-logo="https://i.postimg.cc/Jz6B4WTd/kix4.png", KIX
 http://cekker.masuk.web.id/exo/playlist/kix-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-ID="SonyOne.id" group-title="Entertainment" tvg-logo="https://i.postimg.cc/xdH1nBzF/logo-sone-small1.png", SOne
+#EXTINF:-1 tvg-ID="sone" group-title="Entertainment" tvg-logo="https://i.postimg.cc/xdH1nBzF/logo-sone-small1.png", SOne
 http://cekker.masuk.web.id/exo/playlist/sone-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtt3rWbL/logo-dunialain-small.png" group-title="Entertainment",Dunia Lain
 http://cekker.masuk.web.id/exo/playlist/dunialain-MasterZalogiTV.m3u8
@@ -123,8 +121,6 @@ http://cekker.masuk.web.id/exo/playlist/dunialain-MasterZalogiTV.m3u8
 http://cekker.masuk.web.id/exo/playlist/kbsworld-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png" group-title="Entertainment",TV5Monde
 http://cekker.masuk.web.id/exo/playlist/tv5monde-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eljhon_small.png" group-title="Entertainment", ElJohn
-http://cekker.masuk.web.id/exo/playlist/eljohn-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-id="bein1" tvg-logo="http://cekker.masuk.web.id/logo/be1.png" group-title="Sports",BeIN Sport 1 ID
 http://cekker.masuk.web.id/exo/playlist/bein1-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-id="bein2" tvg-logo="http://cekker.masuk.web.id/logo/be1.png" group-title="Sports",BeIN Sport 2 ID
@@ -169,19 +165,15 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8#EXTINF:-1 tvg-id="" tvg-logo
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Sports",Sony Six
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/World_Fishing_Network_logo.png/220px-World_Fishing_Network_logo.png" group-title="Sports",Fishing Network
 http://cekker.masuk.web.id/exo/playlist/plus-fishing-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_big.png" group-title="Music",MTV Live
+#EXTINF:-1 tvg-id="mtvlive" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_big.png" group-title="Music",MTV Live
 http://cekker.masuk.web.id/exo/playlist/mtvlive-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="Music",Prambors 
+#EXTINF:-1 tvg-id="prambors" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="Music",Prambors 
 http://cekker.masuk.web.id/exo/playlist/pramborstv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ikonser_big.png" group-title="Music",I Konser
+#EXTINF:-1 tvg-id="ikonser" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ikonser_big.png" group-title="Music",I Konser
 http://cekker.masuk.web.id/exo/playlist/ikonser-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/zing.png" group-title="Music",Zing
-http://cekker.masuk.web.id/exo/playlist/vidio-zing-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_big.png" group-title="Music",Citra Dangdut
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/ucha.png" group-title="Religi",UChannel
 http://cekker.masuk.web.id/exo/playlist/uchannel-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/refr.png" group-title="Religi",Reformed 21
-http://cekker.masuk.web.id/exo/playlist/vidio-reformed-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png" group-title="Religi",MUI TV
 http://cekker.masuk.web.id/exo/playlist/muitv-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png" group-title="Religi",TV9
@@ -196,19 +188,11 @@ http://cekker.masuk.web.id/exo/playlist/mtatv-MasterZalogiTV.m3u8
 http://cekker.masuk.web.id/exo/playlist/muhammadiyahtv-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png" group-title="Religi",RodjaTv
 http://cekker.masuk.web.id/exo/playlist/rodjatv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/N0IprWB.png" group-title="Lifestyle", O SHop
-http://cekker.masuk.web.id/exo/playlist/vidio-oshop-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Aebnpct.png" group-title="Lifestyle", O-Chanel
-http://cekker.masuk.web.id/exo/playlist/vidio-ochannel-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_big.png" group-title="Lifestyle", HGTV
 http://cekker.masuk.web.id/exo/playlist/hgtv-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indishopping_big.png" group-title="Lifestyle", Indihome Shop
-http://cekker.masuk.web.id/exo/playlist/indishopping-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mncshop_big.png" group-title="Lifestyle", Mnc Shop
-http://cekker.masuk.web.id/exo/playlist/mncshop-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png" group-title="Lifestyle", Eat & Go
 http://cekker.masuk.web.id/exo/playlist/eatgo-MasterZalogiTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png" group-title="Lifestyle", AFN
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png" group-title="Lifestyle", Asian Food Network
 http://cekker.masuk.web.id/exo/playlist/afc-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Lifestyle",Lifetime
 http://cekker.masuk.web.id/exo/playlist/lifetime-MasterZalogiTV.m3u8
