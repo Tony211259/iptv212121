@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="http://158.140.171.166/utv/epg.xml"
 #EXTINF:-1 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Local Channel",Mozaik Channel
 rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Local Channel", Ruang Trampil
