@@ -181,7 +181,7 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/Yy1140g/kids-tv.png" group-title="BOLANG'TV",KIDS TV
-https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_dash_vmx/ComedyChannel.mpd
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/MMLy4Yk/nik.png" group-title="BOLANG'TV",NICKELODEON
