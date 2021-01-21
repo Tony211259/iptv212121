@@ -167,6 +167,10 @@ http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8#EXTINF:-1 tvg-id="" tvg
 http://cekker.masuk.web.id/exo/playlist/plus-fishing-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-id="mtvlive" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_big.png" group-title="Music",MTV Live
 http://cekker.masuk.web.id/exo/playlist/mtvlive-MasterZalogiTV.m3u8
+#EXTINF:-1 tvg-id="mtvlive" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_big.png" group-title="Music",MTV Live
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13930.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="mtvlive" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_big.png" group-title="Music",MTV 
+http://tv.masterplaytv.xyz:8000/LTN737/7647385926/58070?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="prambors" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="Music",Prambors 
 http://cekker.masuk.web.id/exo/playlist/pramborstv-MasterZalogiTV.m3u8
 #EXTINF:-1 tvg-id="ikonser" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ikonser_big.png" group-title="Music",I Konser
