@@ -1,118 +1,118 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/7jD9Q4N/Bein-1.png" group-title="BOLANG'TV",beIN Sport 1
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_hls_vmx/BeIN1.m3u8
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/DVScJ2p/Bein-2.png" group-title="BOLANG'TV",beIN Sport 2
-https://liveanevia.mncnow.id/live/eds/BeIN2/sa_hls_vmx/BeIN2.m3u8
+https://liveanevia.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/XtvCRGr/Fox-sports-1.png" group-title="BOLANG'TV",FOX SPORTS ID 01
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls_vmx/FOXSports.m3u8
+https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/cF5Hb2H/Fox-sports-2.png" group-title="BOLANG'TV",FOX SPORTS ID 02
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls_vmx/FoxSports2.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/85gSR6k/Fox-sports-3.png" group-title="BOLANG'TV",FOX SPORTS ID 03
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls_vmx/FoxSports3.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/m5ygQX4/MNC-sport.png" group-title="BOLANG'TV",MNC SPORT
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls_vmx/MNCSports.m3u8
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/30BMgZq/soccer.png" group-title="BOLANG'TV",SOCCER
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls_vmx/SoccerChannel.m3u8
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/30BMgZq/soccer.png" group-title="BOLANG'TV",FIGHT SPORT
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls_vmx/FightSports.m3u8
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/YDstmDW/benner-movies.png" group-title="BOLANG'TV",FOX MOVIES
-https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_hls_vmx/FOXMoviesPremium.m3u8
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/X4rLm2q/Fox-action.png" group-title="BOLANG'TV",FOX ACTION
-https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls_vmx/FoxActionMovies.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/pbRdqyK/Fox-family.png" group-title="BOLANG'TV",FOX FAMILY
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls_vmx/FoxFamilyMovies.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/LkDJb67/Fox-1.png" group-title="BOLANG'TV",FOX
-https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls_vmx/FoxChannel.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/BrzrnmR/Fox-crime.png" group-title="BOLANG'TV",FOX CRIME
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls_vmx/FoxCrime.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/FsXFQxW/benner-hbo.png" group-title="BOLANG'TV",HBO
-https://liveanevia.mncnow.id/live/eds/HBO/sa_hls_vmx/HBO.m3u8
+https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/3ypfBd6/HBO-FAMILI-1.png" group-title="BOLANG'TV",HBO FAMILY
-https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls_vmx/HBOFamily.m3u8
+https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/dbbX3z6/HBO-HITS.png" group-title="BOLANG'TV",HBO HITS
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls_vmx/HBOHits.m3u8
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/PTVKHGr/CINEMAX-1.png" group-title="BOLANG'TV",CINEMAX
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls_vmx/CinemaxHD.m3u8
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/vVTXXZT/HBO-SIGNATURE.png" group-title="BOLANG'TV",HBO SIGNATURE
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls_vmx/HBOSignature.m3u8
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/645gzC4/wb.png" group-title="BOLANG'TV",WARNER TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls_vmx/WarnerTV.m3u8
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/8BPNHKQ/axn.png" group-title="BOLANG'TV",AXN
-https://liveanevia.mncnow.id/live/eds/AXN/sa_hls_vmx/AXN.m3u8
+https://liveanevia.mncnow.id/live/eds/AXN/sa_hls/AXN.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/FmcHdT6/wild-1.png" group-title="BOLANG'TV",NATGEO WILD
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls_vmx/NatGeoWild.m3u8
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/s5JWLg5/hgtv.png" group-title="BOLANG'TV",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls_vmx/HGTV.m3u8
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/qN5yc8G/fx.png" group-title="BOLANG'TV",FX
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls_vmx/FX.m3u8
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/3sM9fdT/foxlife.png" group-title="BOLANG'TV",FOX LIFE
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls_vmx/STARWorld.m3u8
+https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/BrzrnmR/Fox-crime.png" group-title="BOLANG'TV",FOX CRIME
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls_vmx/FoxCrime.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/8d5Vk27/POEPLE.png" group-title="BOLANG'TV",NATGEO POEPLE
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls_vmx/NatGeoPeople.m3u8
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/0DsRS4M/b.png" group-title="BOLANG'TV",HISTORY
-https://liveanevia.mncnow.id/live/eds/History/sa_hls_vmx/History.m3u8
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/J5KPy81/afn.png" group-title="BOLANG'TV",Asian Food Network
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls_vmx/AFC.m3u8
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/d42NW7z/fmn.png" group-title="BOLANG'TV",FMN
-https://liveanevia.mncnow.id/live/eds/FMN/sa_hls_vmx/FMN.m3u8
+https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/r0WjtKC/bbc.png" group-title="BOLANG'TV",BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls_vmx/BBCEarth.m3u8
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/FW9GNCs/ANIMAL-planet.png" group-title="BOLANG'TV", ANIMAL PLANET
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls_vmx/AnimalPlanet.m3u8
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/7jkkTr8/discovery.png" group-title="BOLANG'TV",DISCOVERY
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls_vmx/Discovery.m3u8
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.ibb.co/xHMxPcf/crime-investasi.png" group-title="BOLANG'TV",CRIME INVESTIGATION
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls_vmx/CrimeInvestigation.m3u8
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.ibb.co/p1wPfKG/muslim.png" group-title="BOLANG'TV",MUSLIM TV
-https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_hls_vmx/MNCMuslim.m3u8
+https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.ibb.co/KVmyFSy/t9.png" group-title="BOLANG'TV",TV 9
-https://liveanevia.mncnow.id/live/eds/TV9/sa_hls_vmx/TV9.m3u8
+https://liveanevia.mncnow.id/live/eds/TV9/sa_hls/TV9.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.ibb.co/MStTh9h/tv-mu.png" group-title="BOLANG'TV",TV-MU
-https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls_vmx/TVMuhammadiyah.m3u8
+https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.ibb.co/X2P58Nw/tawaf.png" group-title="BOLANG'TV",TAWAF TV
-https://liveanevia.mncnow.id/live/eds/TawafTV/sa_hls_vmx/TawafTV.m3u8
+https://liveanevia.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.ibb.co/QXKjcNv/Al-Qur-an.png" group-title="BOLANG'TV",AL-QUR'AN AL-KAREEM
-https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_hls_vmx/AlQuranAlKareem.m3u8
+https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_hls/AlQuranAlKareem.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/sqNhJyb/lifek.png" group-title="BOLANG'TV",LIFE
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
@@ -121,225 +121,225 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 https://liveanevia.mncnow.id/live/eds/Reformed21/sa_hls/Reformed21.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/grhfJsw/ewtn.png" group-title="BOLANG'TV",EWTN
-https://liveanevia.mncnow.id/live/eds/EWTN/sa_hls_vmx/EWTN.m3u8
+https://liveanevia.mncnow.id/live/eds/EWTN/sa_hls/EWTN.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/jJskL2R/Disney-channel.png" group-title="BOLANG'TV", DISNEY CHANEL
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls_vmx/DisneyChannel.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/jHZ3V5D/Disney.png" group-title="BOLANG'TV",DISNEY JUNIOR
-https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls_vmx/DisneyJunior.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/hmCchxY/cn.png" group-title="BOLANG'TV",CARTOON NETWORK
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls_vmx/CartoonNetwork.m3u8
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/2PG2NFy/bomerang.png" group-title="BOLANG'TV",BOOMERANG
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls_vmx/Boomerang.m3u8
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/Yy1140g/kids-tv.png" group-title="BOLANG'TV",KIDS TV
-https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls_vmx/KidsChannel.m3u8
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/MMLy4Yk/nik.png" group-title="BOLANG'TV",NICKELODEON
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls_vmx/Nickelodeon.m3u8
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/60dPwBZ/NickJR.png" group-title="BOLANG'TV",NICKJR
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls_vmx/NickJr.m3u8
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/Tv893vx/Disny-xd.png" group-title="BOLANG'TV",DISNEY XD
-https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls_vmx/DisneyXD.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/5BvXCLy/besmart.png" group-title="BOLANG'TV",BE-SMART
-https://liveanevia.mncnow.id/live/eds/BeSmart/sa_hls_vmx/BeSmart.m3u8
+https://liveanevia.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/2Y78rSq/animax.png" group-title="BOLANG'TV",ANIMAX
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls_vmx/Animax.m3u8
+https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/BTwd7ty/visionprime.png" group-title="BOLANG'TV",VISION PRIME
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls_vmx/VisionPrime.m3u8
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/Nt4DB7X/oktv.png" group-title="BOLANG'TV",OK-TV
-https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls_vmx/MNCChannel.m3u8
+https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/GQFfj30/ent.png" group-title="BOLANG'TV",eNt
-https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_hls_vmx/MNCEntertainment.m3u8
+https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/TWBGYWy/ie.png" group-title="BOLANG'TV",iE
-https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls_vmx/MNCInfotainment.m3u8
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/9ZjmGB7/TLC.png" group-title="BOLANG'TV",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls_vmx/TLC.m3u8
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/BzN2MRy/tifetime.png" group-title="BOLANG'TV",LIFETIME
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls_vmx/Lifetime.m3u8
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/kxqHBL7/V-chanel.png" group-title="BOLANG'TV",CHANEL'V
-https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls_vmx/ChannelV.m3u8
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/d7dxsxK/music-tv.png" group-title="BOLANG'TV",MUSIC'TV
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls_vmx/MusicChannel.m3u8
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/d7dxsxK/music-tv.png" group-title="BOLANG'TV", Prambors
 https://cdn-telkomsel-01.akamaized.net/Content/hls/Live/channel(5704e29c-7c25-4f2a-bfb5-0247b28fc60b)/manifest.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/NNSctCT/TVN.png" group-title="BOLANG'TV",TVN
-https://liveanevia.mncnow.id/live/eds/tvN/sa_hls_vmx/tvN.m3u8
+https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/0hY2hqD/TVN-movie.png" group-title="BOLANG'TV",TVN-MOVIES
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls_vmx/tvNMovies.m3u8
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/8K02jVM/CALESTIAL-MOVIE.png" group-title="BOLANG'TV",Celestial Movies
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls_vmx/CelestialMovie.m3u8
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/9Vmdk4G/kix.png" group-title="BOLANG'TV",KIX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_hls_vmx/KIX.m3u8
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/6W0gx45/star-chine.png" group-title="BOLANG'TV",SCM
-https://liveanevia.mncnow.id/live/eds/SCM/sa_hls_vmx/SCM.m3u8
+https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/6W0gx45/star-chine.png" group-title="BOLANG'TV",SCML
-https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls_vmx/SCMlegend.m3u8
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/6tDrhQs/hitsr.png" group-title="BOLANG'TV",HITS
-https://liveanevia.mncnow.id/live/eds/HITS/sa_hls_vmx/HITS.m3u8
+https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/yhcFtjw/hitsmovie.png" group-title="BOLANG'TV",HITS-MOVIES
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls_vmx/HitsMovies.m3u8
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/N1S98zF/ccm.png" group-title="BOLANG'TV",CCM
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls_vmx/CelestialClassic.m3u8
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/jvpvNwM/waku.png" group-title="BOLANG'TV",WAKU WAKU JAPAN
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls_vmx/WakuWakuJapan.m3u8
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/XLt41x9/thril.png" group-title="BOLANG'TV",THRILL
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls_vmx/Thrill.m3u8
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/kxW0kbt/cinemawowrd.png" group-title="BOLANG'TV",CINEMAWORD
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls_vmx/CinemaWorld.m3u8
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/WpzBM0d/ZEEBIOSKOP.png" group-title="BOLANG'TV",ZEEBIOSKOP
-https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls_vmx/MovieChannel.m3u8
+https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/BBqQtwt/zing.png" group-title="BOLANG'TV",ZING
-https://liveanevia.mncnow.id/live/eds/Zing/sa_hls_vmx/Zing.m3u8
+https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/tqMBNY8/zeetv.png" group-title="BOLANG'TV",ZEETV
-https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls_vmx/ZeeTV.m3u8
+https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/ck3LsrL/Zee-Cinema.png" group-title="BOLANG'TV",ZEECINEMA
-https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls_vmx/ZeeCinema.m3u8
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/2vTq2gM/XINGKONG-TV.png" group-title="BOLANG'TV",XINGKONG'TV
-https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_hls_vmx/XingKongTV.m3u8
+https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_hls/XingKongTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/db94w3d/JIANGSU-TV.png" group-title="BOLANG'TV",JIANGSU'TV
-https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_hls_vmx/JiangsuTV.m3u8
+https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_hls/JiangsuTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/3hpQQCN/DRAGONTV.png" group-title="BOLANG'TV",DRAGON'TV
-https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_hls_vmx/ShanghaiDragonTV.m3u8
+https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/3z54LNq/AnhuiTV.png" group-title="BOLANG'TV",ANHUI'TV
-https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_hls_vmx/AnhuiTV.m3u8
+https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_hls/AnhuiTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/FWcbpkK/HUNANTV.png" group-title="BOLANG'TV",HUNAN'TV
-https://liveanevia.mncnow.id/live/eds/HunanTV/sa_hls_vmx/HunanTV.m3u8
+https://liveanevia.mncnow.id/live/eds/HunanTV/sa_hls/HunanTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/09nhfP2/trt.png" group-title="BOLANG'TV",TRT WORLD
-https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls_vmx/TRTWorld.m3u8
+https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/82ZKGv2/cnau.png" group-title="BOLANG'TV",CNA
-https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_hls_vmx/ChannelNewsAsia.m3u8
+https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/F87XD5P/RT.png" group-title="BOLANG'TV",RT ENGLISH
-https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_hls_vmx/RTEnglish.m3u8
+https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/wrVQ637/NHK-world.png" group-title="BOLANG'TV",NHK WORLD JAPAN
-https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_hls_vmx/NHKWorldTV.m3u8
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/HqskxqD/NHK-PREMIUM.png" group-title="BOLANG'TV",NHK WORLD PREMIUM
-https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls_vmx/NHKWorldPremium.m3u8
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/BsncCzV/France.png" group-title="BOLANG'TV",FRANCE 24
-https://liveanevia.mncnow.id/live/eds/France24/sa_hls_vmx/France24.m3u8
+https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/xqktYM0/Euronews.png" group-title="BOLANG'TV",EURONEWS
-https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls_vmx/EuroNews.m3u8
+https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/3cc1HvJ/dw2.png" group-title="BOLANG'TV",DW
-https://liveanevia.mncnow.id/live/eds/DW/sa_hls_vmx/DW.m3u8
+https://liveanevia.mncnow.id/live/eds/DW/sa_hls/DW.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/tcBXtdd/cnbc.png" group-title="BOLANG'TV",CNBC INTERNASIONAL
-https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls_vmx/CNBC.m3u8
+https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/4KC6Yn7/CNN-internasional.png" group-title="BOLANG'TV",CNN International
-https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls_vmx/CNNInternational.m3u8
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/n33NZ70/bbc-news.png" group-title="BOLANG'TV",BBC NEWS
-https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_hls_vmx/BBCWorldNews.m3u8
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/sRwknQh/ABC-AUSTRALIA.png" group-title="BOLANG'TV",ABC AUSTRALIA
-https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls_vmx/AustraliaPlus.m3u8
+https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.ibb.co/x32jQz5/Arirang-1.png" group-title="BOLANG'TV",ARIRANG
-https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls_vmx/Arirang.m3u8
+https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
 
 
 
 #EXTM3U
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/0JqSVs5/TVRI.png"group-title="INDONESIA",TVRI
-https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_hls_vmx/PemersatuBangsa.m3u8
+https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/tHbDn4C/Indosiar.png"group-title="INDONESIA",INDOSIAR
-https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls_vmx/Indosiar.m3u8
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/H7Wf354/SCTV.png"group-title="INDONESIA",SCTV
-https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls_vmx/SCTV.m3u8
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/B3mCZqd/RCTI-1.png"group-title="INDONESIA",RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls_vmx/RCTI.m3u8
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/vYkbVDt/MNCTV.png"group-title="INDONESIA",MNC'TV
-https://liveanevia.mncnow.id/live/eds/MNCTV/sa_hls_vmx/MNCTV.m3u8
+https://liveanevia.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/dBQV7qm/ANTV-1.png"group-title="INDONESIA",ANTV
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls_vmx/ANTV.m3u8
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/VDKf1VB/Gtv.png"group-title="INDONESIA",GTV
-https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls_vmx/GlobalTV.m3u8
+https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/pzC7Ddb/TransTV.png"group-title="INDONESIA",TRANS'TV
-https://liveanevia.mncnow.id/live/eds/TransTV/sa_hls_vmx/TransTV.m3u8
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_hls/TransTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/fMtzr75/trans7.png"group-title="INDONESIA",TRANS'7
-https://liveanevia.mncnow.id/live/eds/Trans7/sa_hls_vmx/Trans7.m3u8
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_hls/Trans7.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/fYYcrBh/TVONE.png"group-title="INDONESIA",TV'ONE
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_hls_vmx/TVOne.m3u8
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/HrXHPv4/kompastv.png"group-title="INDONESIA",KOMPAS'TV
-https://liveanevia.mncnow.id/live/eds/KompasTV/sa_hls_vmx/KompasTV.m3u8
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/qxvRFMy/METRO-TV-1.png"group-title="INDONESIA",METRO'TV
-https://liveanevia.mncnow.id/live/eds/MetroTV/sa_hls_vmx/MetroTV.m3u8
+https://liveanevia.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/kM072Wq/rtv.png"group-title="INDONESIA",RTV
-https://liveanevia.mncnow.id/live/eds/RTV/sa_hls_vmx/RTV.m3u8
+https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/3vDSskn/net-tv.png"group-title="INDONESIA",NET'TV
-https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls_vmx/NetTV.m3u8
+https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/mF9Gw2J/berita-satu.png"group-title="INDONESIA",BERITA SATU
-https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_hls_vmx/BeritaSatu.m3u8
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/C7vF3KY/inews.png"group-title="INDONESIA",iNEWS
-https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_hls_vmx/iNewsTV.m3u8
+https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/xjKHJVk/DAII-TV.png"group-title="INDONESIA",DAII
-https://liveanevia.mncnow.id/live/eds/DAAITV/sa_hls_vmx/DAAITV.m3u8
+https://liveanevia.mncnow.id/live/eds/DAAITV/sa_hls/DAAITV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/PDSDtQP/jaktv.png"group-title="INDONESIA",JAK'TV
-https://liveanevia.mncnow.id/live/eds/JakTV/sa_hls_vmx/JakTV.m3u8
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_hls/JakTV.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/Nt4ck12/jtv.png"group-title="INDONESIA",JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
@@ -348,8 +348,8 @@ https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_hls_timeshift/BaliTV_Timeshift.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/3vFyvTN/idx.png"group-title="INDONESIA",IDX'CHANEL
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls_vmx/IDX.m3u8
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/3vDSskn/net-tv.png"group-title="INDONESIA",BLOOMBERG
-https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_hls_vmx/Bloomberg.m3u8
+https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_hls/Bloomberg.m3u8
 
