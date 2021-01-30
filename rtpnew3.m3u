@@ -4,11 +4,11 @@ rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Local Channel", Ruang Trampil
 rtp://@239.1.1.126:8730
 #EXTINF:-1 tvg-logo="" group-title="Local Channel", RCTI
-http://cekker.masuk.web.id/exo/playlist/vidio-rcti-MasterZalogiTV.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channel", MNCTV
-http://cekker.masuk.web.id/exo/playlist/vidio-mnc-MasterZalogiTV.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channel", GTV
-http://cekker.masuk.web.id/exo/playlist/vidio-gtv-MasterZalogiTV.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Local Channel",UseeSports
 rtp://@239.1.2.42:8194
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="Local Channel",UseeSports2
