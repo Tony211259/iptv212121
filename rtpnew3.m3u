@@ -20,7 +20,7 @@ https://delivery.macan.tv/stream/gtv/playlist.m3u8?token=seu3y&v=20200807
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL Channel",GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Magna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="LOKAL Channel", Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1394221975_b2692000_sleng.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports_big1.png" group-title="Local Channel",UseeSports
 rtp://@239.1.2.42:8194
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useesports2_big.png" group-title="Local Channel",UseeSports2
