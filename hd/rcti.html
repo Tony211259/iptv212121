@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Live Streaming</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="dns-prefetch" href="https://www.cnnindonesia.com/">
+        <meta name="viewport" content="initial-scale = 1.0, user-scalable = no, width=device-width, height=device-height, maximum-scale=1.0">
+        <meta name="apple-mobile-web-app-capable" content="yes"/>
+        <meta name="description" content="Live Streaming" />
+        <link type='text/css' rel='stylesheet' href='https://cdn1.mbahnunungonline.net/css/dist/v7/jwplayer.css' />
+    <link type='text/css' rel='stylesheet' href='https://cdn1.mbahnunungonline.net/css/dist/v7/player.css' />
+    <style type="text/css">
+        body { margin:0 auto; padding:0; background:#EEE; overflow: hidden; }
+        #title { font:bold 24px/36px Arial, sans-serif; color:#000; margin:40px auto 10px auto; display:none; text-shadow:#FFF 2px 2px 0; }
+        #description { font:13px/20px Arial, sans-serif; margin:15px auto; display:none; text-shadow:#FFF 1px 1px 0; }
+    </style>
+    <script type="text/javascript">
+    </script>        
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    
+        <script src="//ssl.p.jwpcdn.com/player/v/8.2.2/jwplayer.js?v=1.1.0.0.222"></script>
+        
+
+            <style>
+           body {
+               margin:0;
+               padding:0;
+               overflow: hidden;
+           }
+       </style>
+    <script src="//cdn4.mbahnunungonline.net/js/jw7-hlsjs-provider.js"></script><!-- http://cdn.streamroot.io/jw7-hlsjs-provider/stable/jw7-hlsjs-provider.js -->
+
+<center>
+<div id="streaming"></div>
+<script type="text/javascript">
+var meta = document.createElement('meta');
+meta.name = "referrer";
+meta.content = "no-referrer";
+document.getElementsByTagName('head')[0].appendChild(meta); 
+    jwplayer("streaming").setup({
+		"key": "9dOyFG96QFb9AWbR+FhhislXHfV1gIhrkaxLYfLydfiYyC0s",
+		primary : 'html5',
+		width: '596',
+		height: '340',
+		skin: {"active": "#00CCCC", "inactive": "#CCCCCC", "name": "glow"},
+		abouttext: 'Design by : mbah nunung Online',
+		aboutlink: 'http://mbahnunungonline.net',
+		autostart: 'true',
+		stretching: 'uniform',
+		file: "https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
+		title: "ANIMAX",
+		image: "https://assets.change.org/photos/5/fw/yl/KFfWYlPtIbbyAup-800x450-noPad.jpg?1521112811"
+	});
+	jwplayer().onError(function(){
+		jwplayer().load({
+			file: "http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8",
+			title: "KOMPASTV",
+			//image:""
+		});jwplayer().play();
+		jwplayer().onError(function(){
+			jwplayer("streaming").setup({
+				primary: "html5",
+				file: "https://t4.mbahnunungonline.net/qwr9ew/s/s104/index.m3u8",
+				title: "KOMPASTV",
+				//image:""
+			});			
+			jwplayer("streaming").setup({
+				primary: "html5",
+				file: "https://t4.mbahnunungonline.net/qwr9ew/s/s104/index.m3u8",
+				title: "KOMPASTV",
+				//image:""
+			});			
+			jwplayer().onError(function(){
+				jwplayer("streaming").setup({
+					title: "KOMPASTV",
+					file:"https://edge.nim.mivo.tv/video/assets/oops.m3u8",
+					image:"error.jpg"
+				});
+			});	
+		});
+	});
+jwplayer().on('play', function(){
+        setTimeout(function(){
+            var textAlt = document.querySelectorAll('#' + jwplayer().id + ' .jw-controlbar-center-group .jw-text-alt')[0];
+            if(textAlt) textAlt.innerHTML = 'ANIMAX';
+        },300);
+    });
+</script>
+</center>
+</body>
+</html>
