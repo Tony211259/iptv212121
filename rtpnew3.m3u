@@ -475,3 +475,5 @@ rtp://@239.1.1.237:9396
 rtp://@239.1.1.211:9240
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="HD Channel",Fox Action Movies HD
 rtp://@239.1.1.190:9116
+#EXTINF:-1 tvg-logo="" group-title="VOD", Tukang Ojek Pengkolan 08 Februari
+chrome-extension://hahkjjkedonglpienpfiganogikkkoii/player.html#https://token-media-vidio-com.akamaized.net/exp=1612811919~acl=/uploads/2109725/*~hmac=a16be89d9e0812039bd1d2e000039b7d6c89dae500974168e62611339aed0c46/uploads/2109725/720p/index.m3u8
