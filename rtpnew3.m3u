@@ -7,7 +7,7 @@ rtp://@239.1.1.126:8730
 https://delivery.macan.tv/stream/rcti/playlist.m3u8?token=0sbwu&v=20200807
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL Channel",MNCTV 
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-870
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL Channel",RCTI HD 
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL Channel",RCTI HD 
 https://delivery.macan.tv/stream/rcti/playlist.m3u8?token=0sbwu&v=20200807
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL Channel",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
