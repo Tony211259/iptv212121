@@ -3,6 +3,8 @@
 rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-logo="http://i.ibb.co/XsjccnR/ruangtrampil.png" group-title="Local Channel", Ruang Trampil
 rtp://@239.1.1.126:8730
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh61tki1p6jqnPS_cdcEGtV1LkcVvVNdJZyL5hfTw=s900-c-k-c0x00ffffff-no-rj" group-title="Local https://yt3.ggpht.com/ytc/AAUvwnh61tki1p6jqnPS_cdcEGtV1LkcVvVNdJZyL5hfTw=s900-c-k-c0x00ffffff-no-rjChannel", Dunia Games Channel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL Channel",MNCTV HD
 https://delivery.macan.tv/stream/mnctv/playlist.m3u8?token=0sbwu&v=20200807
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL Channel",MNCTV 
