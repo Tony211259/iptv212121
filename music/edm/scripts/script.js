@@ -13,9 +13,17 @@ new Vue({
           name: "Lost Control",
           artist: "Alan Walker",
           cover: "https://raw.githubusercontent.com/Tony211259/Tony32/main/lost%20control.jpg",
-          source: "https://raw.githubusercontent.com/Tony211259/Tony32/main/Lost%20Control%20-%20Alan%20Walker.mp3",
+          source: "https://raw.githubusercontent.com/Tony211259/Tony32/main/Lost%20Control%20-%20Alan%20Walker.mp3","https://github.com/Tony211259/test/blob/main/Lost%20Sky%20-%20Fearless%20pt.II%20(feat.%20Chris%20Linton)%20%5BNCS%20Release%5D.mp3",
           url: "#",
           favorited: false
+        },
+        {
+          name: "Fearless pt. II",
+          artist: "Lost Sky",
+          cover: "https://i1.sndcdn.com/artworks-000241933292-4vyekx-t500x500.jpg",
+          source: "https://github.com/Tony211259/test/blob/main/Lost%20Sky%20-%20Fearless%20pt.II%20(feat.%20Chris%20Linton)%20%5BNCS%20Release%5D.mp3",
+          url: "#",
+          favorited: true
         }
       ],
       currentTrack: null,
