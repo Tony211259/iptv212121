@@ -10,7 +10,7 @@ https://delivery.macan.tv/stream/mnctv/playlist.m3u8?token=seu3y&v=20200807
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL Channel",MNCTV 
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL Channel",RCTI Vidio
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL Channel",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL Channel",iNEWS HD
