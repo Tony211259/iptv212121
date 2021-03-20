@@ -34,6 +34,14 @@ new Vue({
           favorited: false
         },
         {
+          name: "Graduation",
+          artist: "Juice WRLD ft. Benny Blanco",
+          cover: "https://upload.wikimedia.org/wikipedia/en/3/3a/Benny_Blanco_and_Juice_Wrld_Graduation.png",
+          source: "https://shorturl.at/gzGV1",
+          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
+          favorited: false
+        },
+        {
           name: "Lunatic",
           artist: "Weird Genius ft. Letty",
           cover: "https://i1.sndcdn.com/artworks-000207373420-3l5jsw-t500x500.jpg",
