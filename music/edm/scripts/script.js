@@ -10,19 +10,19 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Lost Control",
-          artist: "Alan Walker",
-          cover: "https://raw.githubusercontent.com/Tony211259/Tony32/main/lost%20control.jpg",
-          source: "https://raw.githubusercontent.com/Tony211259/Tony32/main/Lost%20Control%20-%20Alan%20Walker.mp3","https://github.com/Tony211259/test/blob/main/Lost%20Sky%20-%20Fearless%20pt.II%20(feat.%20Chris%20Linton)%20%5BNCS%20Release%5D.mp3",
-          url: "#",
+          name: "Lagu 1",
+          artist: "Weird Genius x Yellow Claw ft. Reikko",
+          cover: "https://i.ytimg.com/vi/nfVcDJ584RA/maxresdefault.jpg",
+          source: "mp3/HUSH.mp3",
+          url: "https://www.youtube.com/watch?v=nfVcDJ584RA",
           favorited: false
         },
         {
-          name: "Fearless pt. II",
-          artist: "Lost Sky",
-          cover: "https://i1.sndcdn.com/artworks-000241933292-4vyekx-t500x500.jpg",
-          source: "https://github.com/Tony211259/test/blob/main/Lost%20Sky%20-%20Fearless%20pt.II%20(feat.%20Chris%20Linton)%20%5BNCS%20Release%5D.mp3",
-          url: "#",
+          name: "Big Bang",
+          artist: "Weird Genius ft. Letty",
+          cover: "https://images.genius.com/8ee47eafa6fbdfe71b77a74e8cfb4ac6.640x640x1.jpg",
+          source: "https://raw.githubusercontent.com/Tony211259/iptv212121/main/Weird%20Genius%20-%20Big%20Bang%20(ft.%20Letty)%20Official%20Music%20Video.mp3",
+          url: "nothing",
           favorited: true
         }
       ],
