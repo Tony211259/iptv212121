@@ -23,13 +23,53 @@ new Vue({
           cover: "https://i.pinimg.com/736x/9f/3b/1d/9f3b1ddc0b0e974639f714d034bd81a3.jpg",
           source: "mp3/luciddream.mp3",
           url: "#",
-          favorited: false
+          favorited: true
         },
         {
-          name: "Big Bang",
-          artist: "Weird Genius ft. Letty",
-          cover: "https://images.genius.com/8ee47eafa6fbdfe71b77a74e8cfb4ac6.640x640x1.jpg",
-          source: "https://raw.githubusercontent.com/Tony211259/iptv212121/main/Weird%20Genius%20-%20Big%20Bang%20(ft.%20Letty)%20Official%20Music%20Video.mp3",
+          name: "Circles",
+          artist: "Post Malone",
+          cover: "https://upload.wikimedia.org/wikipedia/en/a/a5/Post_Malone_-_Circles.png",
+          source: "mp3/circles.mp3",
+          url: "#",
+          favorited: true
+        },
+        {
+          name: "Mask Off",
+          artist: "Future",
+          cover: "https://i.pinimg.com/564x/d8/1e/49/d81e49efdf48bf62d54f9bbce49bc8f6.jpg",
+          source: "mp3/maskoff.mp3",
+          url: "#",
+          favorited: true
+        },
+        {
+          name: "Godzilla",
+          artist: "Eminem ft. Juice WRLD",
+          cover: "https://i1.sndcdn.com/artworks-000675219829-3jglm5-t500x500.jpg",
+          source: "mp3/godzilla.mp3",
+          url: "#",
+          favorited: true
+        },
+        {
+          name: "Toosie Slide",
+          artist: "Drake",
+          cover: "https://i2.wp.com/radiouty.com/wp-content/uploads/2020/05/toosie-slide-drake.jpg?resize=500%2C500",
+          source: "mp3/toosieslide.mp3",
+          url: "#",
+          favorited: true
+        },
+        {
+          name: "Come and Go",
+          artist: "Juice WRLD ft. Marshmello",
+          cover: "https://upload.wikimedia.org/wikipedia/en/8/8f/Juice_Wrld_and_Marshmello_-_Come_%26_Go.png",
+          source: "mp3/comengo.mp3",
+          url: "#",
+          favorited: true
+        },
+        {
+          name: "GOOBA",
+          artist: "6ix9ne",
+          cover: "https://upload.wikimedia.org/wikipedia/en/c/ca/6ix9ine_-_Gooba.png",
+          source: "mp3/gooba.mp3",
           url: "nothing",
           favorited: true
         }
