@@ -10,11 +10,19 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Lagu 1",
-          artist: "Weird Genius x Yellow Claw ft. Reikko",
-          cover: "https://i.ytimg.com/vi/nfVcDJ584RA/maxresdefault.jpg",
-          source: "mp3/HUSH.mp3",
-          url: "https://www.youtube.com/watch?v=nfVcDJ584RA",
+          name: "Graduation",
+          artist: "Juice WRLD ft. Benny Blanco",
+          cover: "https://upload.wikimedia.org/wikipedia/en/3/3a/Benny_Blanco_and_Juice_Wrld_Graduation.png",
+          source: "mp3/graduation.mp3",
+          url: "#",
+          favorited: true
+        },
+        {
+          name: "Lucid Dreams",
+          artist: "Juice WRLD",
+          cover: "https://i.pinimg.com/736x/9f/3b/1d/9f3b1ddc0b0e974639f714d034bd81a3.jpg",
+          source: "mp3/luciddream.mp3",
+          url: "#",
           favorited: false
         },
         {
