@@ -85,7 +85,7 @@
        
 
 
-       <h2>MTV</h2>
+       <h2>MTV Block Party</h2>
         <p>
           Music Channel
         </p>
@@ -100,7 +100,7 @@
     {
         var video = document.getElementById('player');
         var hls = new Hls();
-        hls.loadSource('http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8');
+        hls.loadSource('https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8');
         hls.attachMedia(video);
         hls.on(Hls.Events.MANIFEST_PARSED,function()
         {
