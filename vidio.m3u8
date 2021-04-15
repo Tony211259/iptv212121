@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/t0bdRX0buaJvddcRRJiSq4shP2Y=/640x360/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="LOCAL", SCTV
+https://livestreaming-swiftserve-etslive.vidio.com/live/204/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/uWapENF5ZCKZjRmMp0lCq1t5P4I=/smart/filters:quality(90):strip_icc()/vidio-web-prod-user/uploads/user/avatar/12/indosiar-3e1fc6.jpg" group-title="LOCAL", Indosiar
+https://livestreaming-swiftserve-etslive.vidio.com/live/205/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/W4cm6dzI7-7-JvcyxepEQ3YX6SA=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-title="LOCAL", RCTI
+https://livestreaming-swiftserve-etslive.vidio.com/live/665/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-g243cQiDv5d4Bvn6laH0e6G4aY=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="LOCAL", MNCTV
+https://livestreaming-swiftserve-etslive.vidio.com/live/870/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/87h7lXcsWiNNo1RKwx6VlVyglVU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="LOCAL", GTV
+https://livestreaming-swiftserve-etslive.vidio.com/live/778/master.m3u8
