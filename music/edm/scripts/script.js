@@ -29,7 +29,7 @@ new Vue({
           name: "Vacation",
           artist: "Juice WRLD - Vacation ft. Post Malone, The Kid LAROI & XXXTentacion",
           cover: "https://i1.sndcdn.com/artworks-fezOAkXK075mW59e-BgPJDw-t500x500.jpg",
-          source: "https://github.com/Tony211259/test/blob/main/Juice%20Wrld%20-%20Ghost%20(Music%20Video).mp3?raw=true",
+          source: "https://github.com/Tony211259/test/blob/main/Juice%20WRLD%20-%20Vacation%20ft.%20Post%20Malone,%20The%20Kid%20LAROI%20.mp3?raw=true",
           url: "#",
           favorited: true
         },
