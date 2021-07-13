@@ -21,7 +21,7 @@ new Vue({
           name: "Ghost",
           artist: "Juice WRLD",
           cover: "https://i1.sndcdn.com/artworks-bMLX2UwUVAxIImJO-ArQEjw-t500x500.jpg",
-          source: "mp3/graduation.mp3",
+          source: "https://github.com/Tony211259/test/blob/main/Juice%20Wrld%20-%20Ghost%20(Music%20Video).mp3?raw=true",
           url: "#",
           favorited: true
         },
